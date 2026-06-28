@@ -26,3 +26,8 @@ __pycache__/
 dist/
 build/
 out/
+
+# Ignore project reports and docs
+Antigravity_CodeIQ_Project_Report.docx
+Antigravity_CodeIQ_Project_Report.md
+Rumor detection Using ML-final.pdf.docx
